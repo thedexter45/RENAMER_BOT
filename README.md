@@ -38,6 +38,10 @@ Telegram File Renamer Bot
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/RENAMER_BOT_V2)
 
+### Deploy to Railway
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ToYz9u)
+
+
 ## License
 ````
 lntechnical2/RENAMER_BOT is licensed under the
@@ -49,11 +53,11 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/MC_Moviescafe">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
-   <p> YouTube </p>
+<a href="https://instagram.com/dexter._.46?igshid=YmMyMTA2M2Y=">
+   <p> Instagram </p>
   </a>
 
 ## Credits
